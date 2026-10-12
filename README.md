@@ -1,12 +1,19 @@
 # Manual de usuario — CEH Manager
 
-Guía de uso del sistema del Comité de Enlace con los Hospitales. Para **instalar** el sistema y descargarlo, ver [ceh-releases](https://github.com/ceh-teams/ceh-releases).
+Guía de uso del sistema del Comité de Enlace con los Hospitales. Para descargar el sistema, ver [ceh-releases](https://github.com/ceh-teams/ceh-releases).
 
 <p align="center"><img src="img/medicos.png" alt="Listado de médicos" width="820"></p>
 
 <p align="center"><sub>Las capturas son del modo demo, con datos inventados.</sub></p>
 
 ## Índice
+
+### Instalación
+
+- [Instalación](instalacion/01-instalacion.md): descargar, instalar, demo, reinicios y actualizaciones.
+- [Primer arranque](instalacion/02-primer-arranque.md): asistente, frase maestra y kit de recuperación.
+
+### Uso del sistema
 
 1. [Primeros pasos](01-primeros-pasos.md): ingresar, verificación en dos pasos, moverse por el sistema.
 2. [Médicos e instituciones](02-medicos-e-instituciones.md): fichas, seguimiento, importar tablas, búsqueda en internet.
