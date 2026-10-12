@@ -12,6 +12,7 @@ Guía de uso del sistema del Comité de Enlace con los Hospitales. Para descarga
 
 - [Instalación](instalacion/01-instalacion.md): descargar, instalar, demo, reinicios y actualizaciones.
 - [Primer arranque](instalacion/02-primer-arranque.md): asistente, frase maestra y kit de recuperación.
+- [Instalación en la nube de Amazon (AWS)](instalacion/03-aws.md): cuenta de AWS, CloudFormation, costos y actualización.
 
 ### Uso del sistema
 
