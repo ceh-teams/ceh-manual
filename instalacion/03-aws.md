@@ -20,6 +20,7 @@ No crea redes (VPC), API Gateway, CloudFront ni bases con servidor: son piezas c
 1. Entrá a <https://portal.aws.amazon.com/billing/signup> y elegí **Crear una cuenta de AWS**.
 2. Cargá un correo del comité (no uno personal, para que la cuenta no dependa de una sola persona), una contraseña y el nombre de la cuenta.
 3. Completá los datos de contacto y una **tarjeta de crédito o débito internacional**. AWS cobra un monto mínimo de verificación.
+   - **Recomendación:** usá una **tarjeta prepaga** internacional (por ejemplo [Global66](https://share.global66.com/NESORO6)): cargás solo el monto que querés gastar y evitás cobros inesperados. Mantené saldo disponible: si AWS no puede cobrar, puede suspender la cuenta.
 4. Verificá el teléfono por SMS o llamada y elegí el plan de soporte **Básico** (gratis).
 5. Iniciá sesión en la [consola de AWS](https://console.aws.amazon.com/) como **usuario raíz**.
 
